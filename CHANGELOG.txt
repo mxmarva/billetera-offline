@@ -21,7 +21,6 @@ END USER NOTES:
  5) BIP38 most likely will not work on mobile devices due to hardware limitations.
 
 Here is a signed list of file names and version history.
-
 2016-12-23: status ACTIVE
 billetera-offline.com-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html
  - remove support for IE8
