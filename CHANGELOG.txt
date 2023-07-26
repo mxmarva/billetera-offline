@@ -9,7 +9,7 @@ The billetera-offline.com software is available Open Source under the MIT Licens
 Visit the GitHub Repository for the full copyright and license information:
 https://github.com/mxmarva/billetera-offline
 
-Donation Address: 12ksUF4SwiHzzvwWaPJ6oiegd6atSL4ux4
+Donation Address: https://btcpay.solucionesmarva.com/apps/QXPm7aahkA6QDfLqveUDh6qXsc5/pos
 
 END USER NOTES: 
  1) For Bulk Wallet I recommended using Google Chrome, it's the fastest.
